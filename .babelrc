@@ -1,0 +1,4 @@
+{
+  "presets": ["preset-env", "preset-react"],
+  "plugins": ["plugin-proposal-class-properties"]
+}
